@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">Supabase</string>
+  <string name="supabase_url">https://pikiofmcevitafcfjrpq.supabase.co</string>
+  <string name="supabase_key">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBpa2lvZm1jZXZpdGFmY2ZqcnBxIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjExODE5NjQsImV4cCI6MTk3Njc1Nzk2NH0.3QLCPUTJskePCRtNnTVRL4_FAuDAU750oquYsEoqDB4</string>
+
+</resources>
